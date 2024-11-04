@@ -30,7 +30,10 @@ function App() {
       <main>
         <Weather city={city} />
       </main>
-      <footer>Powered by OpenWeatherMap API</footer>
+      <footer>
+        This project was coded by SheCodes and is open-sourced on GitHub and
+        hosted on Netlify
+      </footer>
     </div>
   );
 }
