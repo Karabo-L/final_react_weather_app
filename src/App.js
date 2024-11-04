@@ -31,8 +31,9 @@ function App() {
         <Weather city={city} />
       </main>
       <footer>
-        This project was coded by SheCodes and is open-sourced on GitHub and
-        hosted on Netlify
+        This project was coded by Karabo Lesapo and is open-sourced on{" "}
+        <a href="https://github.com/Karabo-L/final_react_weather_app">GitHub</a>{" "}
+        and hosted on
       </footer>
     </div>
   );
